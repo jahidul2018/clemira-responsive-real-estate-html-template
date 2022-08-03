@@ -1,0 +1,384 @@
+/*!
+ * workflow - myfrontendworkflow v1.0.0 (http://myfrontendworkflow.github.io) 
+ Myfrontendworkflow is Simple and easy to use, A professional front-end template for building fast boilerplate with (HTML template engine) starter kit.
+ * Copyright (c) 2016-2017 mardianto | mardianto718@gmail.com | @mardiantopersonal | http://mardianto.github.io
+ * Licensed under MIT ()
+ */
+
+.setting-button {
+  background: #85238A; }
+
+/*====================================
+=            Section home            =
+====================================*/
+/*----------  Subsection global button  ----------*/
+.button-theme {
+  background: #85238A;
+  border: 1px solid #85238A;
+  color: #fff; }
+  .button-theme:hover {
+    background: #671a6b;
+    border: 1px solid #671a6b;
+    color: #fff; }
+
+.border-button-theme {
+  color: #85238A;
+  border: 2px solid #85238A; }
+
+/*----------  Subsection top header  ----------*/
+.top-header {
+  background-color: #85238A; }
+
+.top-header .wrap-top-information ul li a .box-button:hover {
+  color: #85238A; }
+
+/*----------  Subsection Navbar  ----------*/
+nav.navbar.bootsnav ul.nav li.active > a {
+  color: #85238A; }
+
+nav.navbar li.dropdown ul.dropdown-menu, ul.top-link li .dropdown-menu {
+  border-top-color: #85238A !important; }
+
+nav.navbar ul.nav > li > a:hover {
+  color: #85238A; }
+
+/*----------  Subsection slider dots active  ----------*/
+.home_slides .carousel.slide .carousel-indicators li.active {
+  background: #85238A; }
+
+/*----------  Subsection find the property looking for  ----------*/
+.wrap-catagory .title-head .c-bg-yellow, .wrap-form-property .title-head .c-bg-yellow {
+  background-color: #85238A !important; }
+
+.wrap-catagory .title-head .c-bg-after-yellow:after, .wrap-form-property .title-head .c-bg-after-yellow:after {
+  background-color: #85238A !important; }
+
+.wrap-catagory .catagory-locations:hover .locations-overlay, .wrap-form-property .catagory-locations:hover .locations-overlay {
+  background-color: rgba(133, 35, 138, 0.81); }
+
+/*----------  Subsection form filter home  ----------*/
+.form-control:focus {
+  border-color: #85238A; }
+
+/* choosen */
+.chosen-container .chosen-drop {
+  border-left: 1px solid #85238A;
+  border-right: 1px solid #85238A;
+  border-bottom: 1px solid #85238A; }
+
+.chosen-container-active .chosen-single {
+  border: 1px solid #85238A; }
+
+.chosen-container-active.chosen-with-drop .chosen-single {
+  border: 1px solid #85238A; }
+
+.chosen-container .chosen-results li.highlighted {
+  background-color: #85238A;
+  background-image: linear-gradient(#85238A 20%, #85238A 90%);
+  color: #fff; }
+
+.nstSlider .bar {
+  background: #85238A; }
+
+.nstSlider .highlightPanel {
+  background: #85238A; }
+
+/*----------  Subsection features  ----------*/
+.wrap-features .right-redbox {
+  background-color: #85238A; }
+
+.wrap-features .right-redbox {
+  background-color: rgba(133, 35, 138, 0.81); }
+
+/*----------  Subsection popular property  ----------*/
+.wrap-popular-property .card .card-image .ribbon {
+  background-color: #85238A; }
+
+.wrap-listing-item .card .card-content .listingInfo .vcard .title-properti h4:hover, .slider-popular-property .card .card-content .listingInfo .vcard .title-properti h4:hover {
+  color: #85238A; }
+
+.wrap-listing-item .card .card-image .ribbon, .slider-popular-property .card .card-image .ribbon {
+  background-color: #85238A; }
+
+.wrap-popular-property .slider-popular-property .owl-nav div {
+  background: #85238A; }
+
+.wrap-popular-property .slider-popular-property .owl-nav div:hover {
+  border: 2px solid #85238A; }
+
+.property-block-list .ribbon {
+  background-color: #85238A; }
+
+.content-block h4:hover {
+  color: #85238A; }
+
+/*----------  Subsection Nav slider property  ----------*/
+.nav-slider-property .owl-nav div {
+  background: #85238A; }
+
+.nav-slider-property .owl-nav div:hover {
+  border: 2px solid #85238A;
+  color: #85238A; }
+
+/*----------  Subsection owl dots  ----------*/
+.wrap-features-bestproperties .owl-dot.active span {
+  background: #85238A; }
+
+/*----------  Subsection wrap sidebar panel search property ----------*/
+.property-title span {
+  color: #85238A; }
+
+.wrap-sidebar-property .panel-default > .panel-heading h4 span {
+  color: #85238A; }
+
+/*----------  Subsection pagging  ----------*/
+.pagination a.active {
+  background-color: #85238A;
+  color: #fff;
+  border: 1px solid #85238A; }
+
+/*----------  Subsection property detail  ----------*/
+section .all .slider-two .item.active {
+  border: solid 3px #85238A; }
+
+/*----------  Subsection about us  ----------*/
+.about-us .profile h3:after {
+  background: #85238A; }
+
+/*----------  Subsection sign-up  ----------*/
+.wrap-register-bg {
+  background: #85238A; }
+
+/*----------  Subsection member dashboard  ----------*/
+.noempaty {
+  color: #85238A; }
+
+.account-info {
+  border-bottom: 5px solid #85238A; }
+
+.account-info-type {
+  background: #85238A; }
+
+.wrap-content-dashboard .panel-footer {
+  background-color: #85238A; }
+
+.bg-table thead tr th {
+  background-color: #85238A; }
+
+.wrap-sidebar-dashboard .list-group .list-group-item {
+  background-color: #85238A;
+  border: 1px solid #9d0ea5; }
+
+.wrap-sidebar-dashboard .list-group a:hover {
+  background-color: #800a86; }
+
+.inputfile-default:focus + label, .inputfile-default.has-focus + label, .inputfile-default + label:hover {
+  background-color: #85238A; }
+
+/*----------  Subsection agent profile  ----------*/
+.wrap-agent-profile-detail .agent-profile .agent-profile-catagory {
+  color: #85238A; }
+
+.wrap-agent-profile-detail-two .agent-profile .agent-profile-catagory {
+  color: #85238A; }
+
+/*----------  Subsection Article & Tips  ----------*/
+article .over-layer, .post .over-layer {
+  background-color: rgba(133, 35, 138, 0.81); }
+
+.wrapblog-slide .owl-dot.active span {
+  background: #85238A; }
+
+/*----------  Subsection FAQ  ----------*/
+.panel-group .panel .panel-heading .panel-title a:after {
+  background-color: #85238A; }
+
+/*----------  Subsection sidebar blog  ----------*/
+.sidebar-blog > .title h3:after {
+  background: #85238A; }
+
+.sidebar-list-blog .item .item_content .meta_category {
+  background: #85238A; }
+
+.sidebar-list-blog .item .item_content .meta_category:after {
+  border-color: rgba(136, 183, 213, 0);
+  border-right-color: #85238A; }
+
+.sidebar-list-blog .item .item_thumb {
+  background-color: #85238A; }
+
+.sidebar-list-blog .item .item_content h4 a:hover {
+  color: #85238A; }
+
+.sidebar-blog ul li a:before {
+  color: #85238A; }
+
+.sidebar-blog ul li a:hover {
+  color: #85238A; }
+
+.post-footer ul li span {
+  color: #85238A; }
+
+.tag a {
+  border: 1px solid #85238A;
+  color: #85238A; }
+
+.tag a:hover {
+  background: #85238A; }
+
+.blog-nav-tags a {
+  background: #85238A;
+  border: 1px solid #85238A; }
+
+.blog-nav-tags a:hover {
+  color: #85238A;
+  background: #fff;
+  border: 1px solid #85238A; }
+
+.back-article > a:hover {
+  background-color: #85238A; }
+
+.prev-article > h3 {
+  color: #85238A; }
+
+.next-article > h3 {
+  color: #85238A; }
+
+.wrap-articleterkait .post-content h4 a:hover {
+  color: #85238A; }
+
+.wrap-articleterkait .item .item_thumb {
+  background-color: #85238A; }
+
+.wrap-comment .reply {
+  background: #85238A; }
+
+/*----------  Subsection blog  ----------*/
+.post-thumbnail .post-item .post-content-details .post-title h3 a:hover {
+  color: #85238A; }
+
+.post-thumbnail .post-item .post-image {
+  background-color: rgba(133, 35, 138, 0.81); }
+
+.post-thumbnail .post-item .post-content-details .post-info .post-autor a:hover {
+  color: #85238A; }
+
+.post-thumbnail .post-item .post-content-details .post-info .post-category a:hover {
+  color: #85238A; }
+
+.post-thumbnail .post-item .post-content-details .post-meta .post-comments a:hover {
+  color: #85238A; }
+
+.post-thumbnail .post-item .post-content-details .post-meta .post-share a:hover {
+  color: #85238A; }
+
+/*----------  Subsection Gallery  ----------*/
+.btn14 .buttons .fa {
+  background: #85238A; }
+
+.gallery .portfolio-sorting li a:hover, .gallery .portfolio-sorting li a:focus, .gallery .portfolio-sorting li a.active {
+  background-color: #85238A; }
+
+/*----------  Subsection contact us map  ----------*/
+.map {
+  background: #85238A; }
+
+/*----------  Subsection recent property  ----------*/
+.wrap-recent-property .owl-nav div {
+  background: #85238A; }
+  .wrap-recent-property .owl-nav div:hover {
+    color: #85238A; }
+
+.listing-hidden-content {
+  background-color: #85238A; }
+
+.listing-badges .featured {
+  background-color: #85238A; }
+
+/*----------  Subsection agent  ----------*/
+.wrap-agent-home .agent-profile .agent-profile-catagory {
+  color: #85238A; }
+
+.wrap-agent-home .text-agent h2:before {
+  background-color: #85238A; }
+
+/*----------  Subsection article & tips  ----------*/
+article .post-title a:hover, .post .post-title a:hover {
+  color: #85238A; }
+
+article .over-layer ul.post-link li a:hover, .post .over-layer ul.post-link li a:hover {
+  color: #85238A; }
+
+article .read-more:hover, .post .read-more:hover {
+  color: #85238A; }
+
+article .read-more:after, .post .read-more:after {
+  border: 1px solid #85238A; }
+
+/*----------  Subsection testimonial  ----------*/
+
+.client-dsc h2 {
+  color: #85238A; }
+
+.testimonial-section .left i, .testimonial-section .right i {
+  background: #85238A; }
+
+/*----------  Subsection call-to-action  ----------*/
+.bg-theme {
+  background-color: #85238A; }
+
+.wrap-count {
+  background: #85238A; }
+
+.call-to-actions .call-us .booking {
+  color: #85238A; }
+
+/*=====  End of Section home  ======*/
+/*============================================
+=            Section home style 2            =
+============================================*/
+.wrap-search-bar-hero .panel-default .panel-heading {
+  background-color: #85238A; }
+
+.wrap-features-properties ul.list-features li:before {
+  background: #85238A; }
+
+.icon-box.color .icon i {
+  background: #85238A; }
+
+.icon-box.color .icon i:after {
+  box-shadow: 0 0 0 3px #85238A; }
+
+/*----------  Subsection agent  ----------*/
+.flat-team.style4:hover .content {
+  background-color: #85238A; }
+
+.flat-team.style4 .panel-body .profile-team p {
+  color: #85238A; }
+
+.flat-team.style4 .panel-footer .soscial-media li a:hover {
+  background: #85238A; }
+
+/*----------  Subsection testimonial two  ----------*/
+.testimonial-section-two .slider-testimonial-two .testimonial-block-panel .testimonial-panel-heading:before {
+  color: #85238A; }
+
+/*----------  Subsection owl dots  ----------*/
+.testimonial-section-two .owl-dot.active span {
+  background: #85238A; }
+
+/*----------  Subsection client our customers  ----------*/
+.clients .owl-nav div {
+  background: #85238A; }
+
+.clients .owl-nav div:hover {
+  border: 2px solid #85238A;
+  color: #85238A; }
+
+.text-white {
+  color: #fff; }
+
+.text-theme {
+  color: #85238A; }
+
+/*=====  End of Section home style 2  ======*/

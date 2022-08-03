@@ -1,0 +1,400 @@
+.setting-button {
+  background: green; }
+
+/*====================================
+=            Section home            =
+====================================*/
+/*----------  Subsection global button  ----------*/
+.button-theme {
+  background: green;
+  border: 1px solid green;
+  color: #fff; }
+  .button-theme:hover {
+    background: #1c7505;
+    border: 1px solid #1c7505;
+    color: #fff; }
+
+/*----------  Subsection top header  ----------*/
+.top-header {
+  background-color: green; }
+
+.top-header .wrap-top-information ul li a .box-button:hover {
+  color: green; }
+
+/*----------  Subsection Navbar  ----------*/
+nav.navbar.bootsnav ul.nav li.active > a {
+  color: green; }
+
+nav.navbar li.dropdown ul.dropdown-menu, ul.top-link li .dropdown-menu {
+  border-top-color: green !important; }
+
+nav.navbar ul.nav > li > a:hover {
+  color: green; }
+
+/*----------  Subsection slider dots active  ----------*/
+.home_slides .carousel.slide .carousel-indicators li.active {
+  background: green; }
+
+/*----------  Subsection find the property looking for  ----------*/
+.wrap-catagory .title-head .c-bg-yellow, .wrap-form-property .title-head .c-bg-yellow {
+  background-color: green !important; }
+
+.wrap-catagory .title-head .c-bg-after-yellow:after, .wrap-form-property .title-head .c-bg-after-yellow:after {
+  background-color: green !important; }
+
+.wrap-catagory .catagory-locations:hover .locations-overlay, .wrap-form-property .catagory-locations:hover .locations-overlay {
+  background-color: rgba(27, 127, 1, 0.81); }
+
+/*----------  Subsection form filter home  ----------*/
+.form-control:focus {
+  border-color: green; }
+
+/* choosen */
+.chosen-container .chosen-drop {
+  border-left: 1px solid green;
+  border-right: 1px solid green;
+  border-bottom: 1px solid green; }
+
+.chosen-container-active .chosen-single {
+  border: 1px solid green; }
+
+.chosen-container-active.chosen-with-drop .chosen-single {
+  border: 1px solid green; }
+
+.chosen-container .chosen-results li.highlighted {
+  background-color: green;
+  background-image: linear-gradient(green 20%, green 90%);
+  color: #fff; }
+
+.nstSlider .bar {
+  background: green; }
+
+.nstSlider .highlightPanel {
+  background: green; }
+
+/*----------  Subsection features  ----------*/
+.wrap-features .right-redbox {
+  background-color: green; }
+
+.wrap-features .right-redbox {
+  background-color: rgba(27, 127, 1, 0.81); }
+
+/*----------  Subsection popular property  ----------*/
+.wrap-popular-property .card .card-image .ribbon {
+  background-color: green; }
+
+.wrap-listing-item .card .card-content .listingInfo .vcard .title-properti h4:hover, .slider-popular-property .card .card-content .listingInfo .vcard .title-properti h4:hover {
+  color: green; }
+
+.wrap-listing-item .card .card-image .ribbon, .slider-popular-property .card .card-image .ribbon {
+  background-color: green; }
+
+.wrap-popular-property .slider-popular-property .owl-nav div {
+  background: green; }
+
+.wrap-popular-property .slider-popular-property .owl-nav div:hover {
+  border: 2px solid green; }
+
+.property-block-list .ribbon {
+  background-color: green; }
+
+.content-block h4:hover {
+  color: green; }
+
+/*----------  Subsection properties listing  ----------*/
+.property-listing-block .card .card-image .ribbon {
+  background-color: green; }
+
+.property-listing-block .card .card-content .listingInfo .vcard .title-properti h4:hover {
+  color: green; }
+
+.property-listing-list .ribbon {
+  background-color: green; }
+
+/*----------  Subsection Nav slider property  ----------*/
+.nav-slider-property .owl-nav div {
+  background: green; }
+
+.nav-slider-property .owl-nav div:hover {
+  border: 2px solid green;
+  color: green; }
+
+/*----------  Subsection owl dots  ----------*/
+.wrap-features-bestproperties .owl-dot.active span {
+  background: green; }
+
+/*----------  Subsection wrap sidebar panel search property ----------*/
+.property-title span {
+  color: green; }
+
+.wrap-sidebar-property .panel-default > .panel-heading h4 span {
+  color: green; }
+
+/*----------  Subsection pagging  ----------*/
+.pagination a.active {
+  background-color: green;
+  color: #fff;
+  border: 1px solid green; }
+
+/*----------  Subsection property detail  ----------*/
+section .all .slider-two .item.active {
+  border: solid 3px green; }
+
+/*----------  Subsection about us  ----------*/
+.about-us .profile h3:after {
+  background: green; }
+
+/*----------  Subsection sign-up  ----------*/
+.wrap-register-bg {
+  background: green; }
+
+/*----------  Subsection member dashboard  ----------*/
+.noempaty {
+  color: green; }
+
+.account-info {
+  border-bottom: 5px solid green; }
+
+.account-info-type {
+  background: green; }
+
+.wrap-content-dashboard .panel-footer {
+  background-color: green; }
+
+.bg-table thead tr th {
+  background-color: green; }
+
+.wrap-sidebar-dashboard .list-group .list-group-item {
+  background-color: green;
+  border: 1px solid #26940a; }
+
+.wrap-sidebar-dashboard .list-group a:hover {
+  background-color: #1c7505; }
+
+.inputfile-default:focus + label, .inputfile-default.has-focus + label, .inputfile-default + label:hover {
+  background-color: green; }
+
+/*----------  Subsection agent profile  ----------*/
+.wrap-agent-profile-detail .agent-profile .agent-profile-catagory {
+  color: green; }
+
+.wrap-agent-profile-detail-two .agent-profile .agent-profile-catagory {
+  color: green; }
+
+/*----------  Subsection Article & Tips  ----------*/
+article .over-layer, .post .over-layer {
+  background-color: rgba(27, 127, 1, 0.81); }
+
+.wrapblog-slide .owl-dot.active span {
+  background: green; }
+
+/*----------  Subsection FAQ  ----------*/
+.panel-group .panel .panel-heading .panel-title a:after {
+  background-color: green; }
+
+/*----------  Subsection sidebar blog  ----------*/
+.sidebar-blog > .title h3:after {
+  background: green; }
+
+.sidebar-list-blog .item .item_content .meta_category {
+  background: green; }
+
+.sidebar-list-blog .item .item_content .meta_category:after {
+  border-color: rgba(136, 183, 213, 0);
+  border-right-color: green; }
+
+.sidebar-list-blog .item .item_thumb {
+  background-color: green; }
+
+.sidebar-list-blog .item .item_content h4 a:hover {
+  color: green; }
+
+.sidebar-blog ul li a:before {
+  color: green; }
+
+.sidebar-blog ul li a:hover {
+  color: green; }
+
+.post-footer ul li span {
+  color: green; }
+
+.tag a {
+  border: 1px solid green;
+  color: green; }
+
+.tag a:hover {
+  background: green; }
+
+.blog-nav-tags a {
+  background: green;
+  border: 1px solid green; }
+
+.blog-nav-tags a:hover {
+  color: green;
+  background: #fff;
+  border: 1px solid green; }
+
+.back-article > a:hover {
+  background-color: green; }
+
+.prev-article > h3 {
+  color: green; }
+
+.next-article > h3 {
+  color: green; }
+
+.wrap-articleterkait .post-content h4 a:hover {
+  color: green; }
+
+.wrap-articleterkait .item .item_thumb {
+  background-color: green; }
+
+.wrap-comment .reply {
+  background: green; }
+
+/*----------  Subsection blog  ----------*/
+.post-thumbnail .post-item .post-content-details .post-title h3 a:hover {
+  color: green; }
+
+.post-thumbnail .post-item .post-image {
+  background-color: rgba(27, 127, 1, 0.81); }
+
+.post-thumbnail .post-item .post-content-details .post-info .post-autor a:hover {
+  color: green; }
+
+.post-thumbnail .post-item .post-content-details .post-info .post-category a:hover {
+  color: green; }
+
+.post-thumbnail .post-item .post-content-details .post-meta .post-comments a:hover {
+  color: green; }
+
+.post-thumbnail .post-item .post-content-details .post-meta .post-share a:hover {
+  color: green; }
+
+/*----------  Subsection Gallery  ----------*/
+.btn14 .buttons .fa {
+  background: green; }
+
+.gallery .portfolio-sorting li a:hover, .gallery .portfolio-sorting li a:focus, .gallery .portfolio-sorting li a.active {
+  background-color: green; }
+
+/*----------  Subsection contact us map  ----------*/
+.map {
+  background: green; }
+
+/*----------  Subsection recent property  ----------*/
+.wrap-recent-property .owl-nav div {
+  background: green; }
+  .wrap-recent-property .owl-nav div:hover {
+    color: green; }
+
+.listing-hidden-content {
+  background-color: green; }
+
+.listing-badges .featured {
+  background-color: green; }
+
+/*----------  Subsection agent  ----------*/
+.wrap-agent-home .agent-profile .agent-profile-catagory {
+  color: green; }
+
+.wrap-agent-home .text-agent h2:before {
+  background-color: green; }
+
+/*----------  Subsection article & tips  ----------*/
+article .post-title a:hover, .post .post-title a:hover {
+  color: green; }
+
+article .over-layer ul.post-link li a:hover, .post .over-layer ul.post-link li a:hover {
+  color: green; }
+
+article .read-more:hover, .post .read-more:hover {
+  color: green; }
+
+article .read-more:after, .post .read-more:after {
+  border: 1px solid green; }
+
+/*----------  Subsection testimonial  ----------*/
+.client-dsc h2 {
+  color: green; }
+
+.testimonial-section .left i, .testimonial-section .right i {
+  background: green; }
+
+/*----------  Subsection call-to-action  ----------*/
+.bg-theme {
+  background-color: green; }
+
+.wrap-count {
+  background: green; }
+
+.call-to-actions .call-us .booking {
+  color: green; }
+
+/*=====  End of Section home  ======*/
+/*============================================
+=            Section home style 2            =
+============================================*/
+.wrap-search-bar-hero .panel-default .panel-heading {
+  background-color: green; }
+
+.wrap-features-properties ul.list-features li:before {
+  background: green; }
+
+.icon-box.color .icon i {
+  background: green; }
+
+.icon-box.color .icon i:after {
+  box-shadow: 0 0 0 3px green; }
+
+/*----------  Subsection agent  ----------*/
+.flat-team.style4:hover .content {
+  background-color: green; }
+
+.flat-team.style4 .panel-body .profile-team p {
+  color: green; }
+
+.flat-team.style4 .panel-footer .soscial-media li a:hover {
+  background: green; }
+
+/*----------  Subsection testimonial two  ----------*/
+.testimonial-section-two .slider-testimonial-two .testimonial-block-panel .testimonial-panel-heading:before {
+  color: green; }
+
+/*----------  Subsection owl dots  ----------*/
+.testimonial-section-two .owl-dot.active span {
+  background: green; }
+
+/*----------  Subsection client our customers  ----------*/
+.clients .owl-nav div {
+  background: green; }
+
+.clients .owl-nav div:hover {
+  border: 2px solid green;
+  color: green; }
+
+.text-white {
+  color: #fff; }
+
+.text-theme {
+  color: green; }
+
+/*=====  End of Section home style 2  ======*/
+/*============================================
+=            Section home style 3            =
+============================================*/
+.parallax .content-parallax h2 span {
+  color: green; }
+
+.parallax .title-head h3 span {
+  color: green; }
+
+/*=====  End of Section home style 3  ======*/
+/*============================================
+=            Section footer            =
+============================================*/
+.footer-one .copyright {
+  color: green; }
+
+.footer-two a.copyright {
+  color: green; }
